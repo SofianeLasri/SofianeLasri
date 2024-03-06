@@ -6,7 +6,7 @@
 
 I am a Full-Stack web developper at [Kang.fr](https://kang.fr/) during the week, and an all-language programmer at the weekend. 😄
 
-<h3><img src="arts/roomba-cat.gif" width="18"/> À propos de moi...</h3>
+<h3><img src="arts/roomba-cat.gif" width="18"/> About me...</h3>
 
 ```php
 $sofianeLasri = [
