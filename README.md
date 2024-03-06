@@ -36,7 +36,7 @@ $sofianeLasri = [
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+<h3><img src='arts/cat-observe.webp' width='18'/> This Week I Spent My Time On</h3> 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
