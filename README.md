@@ -1,10 +1,10 @@
-<h2><img src="arts/yeah.webp" width="30"/>  Salut, moi c'est Sofiane !</h2>
+<h2><img src="arts/yeah.webp" width="30"/>  Hi, I'm Sofiane !</h2>
 
 [![Linkedin: Sofiane Lasri-Trienpont](https://img.shields.io/badge/-Sofiane_Lasri--Trienpont-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofiane-lasri-trienpont/)](https://www.linkedin.com/in/sofiane-lasri-trienpont/)
 [![GitLab: My GitLab](https://img.shields.io/badge/Visit_my_GitLab-FC6D26?logo=gitlab&logoColor=white&link=https://gitlab.sl-projects.com/sl-projects/sl-projects-website)](https://gitlab.sl-projects.com/sl-projects/sl-projects-website)
 [![GitLab: My GitLab](https://img.shields.io/badge/SofianeLasri.fr-F78E57?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MTMiIGhlaWdodD0iMTcxIiB2aWV3Qm94PSIwIDAgNDExLjgyIDE2OS4zMiI+PGcgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwNS41MyAwYy02LjEyIDI2LTIyLjY5IDM2LjcyLTQ5LjQ3IDM2LjcySDU3LjYzYy0yMi43IDAtNDguMiA2LjEyLTU1Ljg1IDMwLjM0QTQ5LjIzIDQ5LjIzIDAgMDEwIDU0LjU3di0zLjgzQzAgMjIuNDQgMjYuNzcgMCA1MC40OSAwem0uNzcgMTE5LjM0YzAgMjkuMzMtMjYuNzggNTAtNTAuNzUgNTBINTAuNDljLTIxLjQyIDAtNDUuMzktMTUuMy00OS43My0zNi43MkgxNDBjMTQuNzkgMCAxNC0xMy43NyAxNC0xMy43N3YtLjUxYzAtNC4wOC0uNTEtMTMuMjYtMTQtMTMuMjZINTAuNDljLTEyLjc1IDAtMjcuNTQtNS42MS0zNi4yMS0xNi4wN2EyNC4xIDI0LjEgMCAwMS0zLjMyLTEyYzAtMjAuNjYgMjQtMjkuMDcgNDEuNTctMjkuMDdhMTEuMiAxMS4yIDAgMDAtLjI2IDIuOHYzLjgzYzAgMy41Ny4yNiAxMy43NyAxMy43NyAxMy43N2g4OS41MWMyOS4wNyAwIDUwLjc1IDI0LjQ4IDUwLjc1IDUxek0yMjYuNjkgODcuOTdWMGg1MnYxMjEuMzhoLTEzLjVjLTIyLjQ0IDAtMzUuMTktMTEuMjItMzguNS0zMy40MXptMTg1LjEzIDQ0LjYzYy0xLjUzIDE1LjgxLTE2LjMyIDM2LjcyLTQyLjMzIDM2LjcyaC0xNDIuOHYtNTIuNzhjMTEgMTMgMjcgMTUuODEgMzguNSAxNi4wNnoiLz48L2c+PC9zdmc+&logoColor=white&link=https://sofianelasri.fr)](https://sofianelasri.fr)
 
-Je suis développeur web Full-Stack chez [Kang.fr](https://kang.fr/) la semaine, et programmeur tous langages le week-end. 😄
+I am a Full-Stack web developper at [Kang.fr](https://kang.fr/) during the week, and an all-language programmer at the weekend. 😄
 
 <h3><img src="arts/roomba-cat.gif" width="18"/> À propos de moi...</h3>
 
@@ -28,7 +28,12 @@ $sofianeLasri = [
 ];
 ```
 
-<h3><img src="arts/pandaluv.png" width="18"/> Mes langages préférés</h3>
+<h3><img src="arts/pandaluv.png" width="18"/> My prefered stack</h3>
+
+- Laravel (PHP)
+- Sass & Bootstrap
+- TypeScript
+
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
