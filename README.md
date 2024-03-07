@@ -30,9 +30,7 @@ $sofianeLasri = [
 
 <h3><img src="arts/pandaluv.png" width="18"/> My prefered stack</h3>
 
-- Laravel (PHP)
-- Sass & Bootstrap
-- TypeScript
+<img src="arts/stack.svg" />
 
 
 <!--START_SECTION:waka-->
