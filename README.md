@@ -40,10 +40,11 @@ $sofianeLasri = [
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Astro                    0 secs              ████████████████████░░░░░   78.65 % 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 ```
 
 
