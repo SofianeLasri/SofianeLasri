@@ -40,17 +40,16 @@ $sofianeLasri = [
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               9 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.78 % 
-PHP                      2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-HTML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+TypeScript               8 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.83 % 
+PHP                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Vue.js                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🔥 Editors: 
-WebStorm                 10 hrs 52 mins      █████████████░░░░░░░░░░░░   51.40 % 
-PhpStorm                 10 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.49 % 
-PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-RustRover                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+PhpStorm                 11 hrs 35 mins      ████████████░░░░░░░░░░░░░   49.34 % 
+WebStorm                 10 hrs 52 mins      ████████████░░░░░░░░░░░░░   46.25 % 
+RustRover                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 
 
