@@ -40,16 +40,16 @@ $sofianeLasri = [
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      6 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.14 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Vue                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Rust                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+PHP                      5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.12 % 
+Markdown                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+MDX                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 Editors: 
-Unknown Editor           7 hrs 8 mins        █████████████░░░░░░░░░░░░   52.32 % 
-PhpStorm                 6 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
-PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Unknown Editor           8 hrs 51 mins       ██████████████░░░░░░░░░░░   55.42 % 
+PhpStorm                 6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.02 % 
+PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
