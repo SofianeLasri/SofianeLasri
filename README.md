@@ -34,23 +34,5 @@ $sofianeLasri = [
 
 
 <!--START_SECTION:waka-->
-<h3><img src='arts/cat-observe.webp' width='18'/> This Week I Spent My Time On</h3> 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-PHP                      3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Markdown                 2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Vue                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-TypeScript               1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Rust                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-
-🔥 Editors: 
-Unknown Editor           11 hrs 27 mins      ████████████████████░░░░░   78.81 % 
-PhpStorm                 2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-RustRover                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-```
-
 
 <!--END_SECTION:waka-->
