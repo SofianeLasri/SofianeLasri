@@ -40,16 +40,16 @@ $sofianeLasri = [
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 20 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.13 % 
-PHP                      12 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Rust                     10 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Python                   2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Diff                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Markdown                 14 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Rust                     11 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+PHP                      10 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Python                   6 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Diff                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              50 hrs 9 mins       ███████████████████████░░   90.44 % 
-PhpStorm                 4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-RustRover                59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Claude Code              46 hrs 18 mins      ███████████████████████░░   90.20 % 
+PhpStorm                 3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+RustRover                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 
 
